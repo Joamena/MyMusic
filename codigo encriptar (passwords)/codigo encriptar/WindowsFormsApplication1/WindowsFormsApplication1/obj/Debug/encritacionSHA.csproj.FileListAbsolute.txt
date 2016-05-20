@@ -1,0 +1,27 @@
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\encritacionSHA.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\encritacionSHA.csproj.GenerateResource.Cache
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gil\Desktop\especificacion progra\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Interfaz.resources
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\encritacionSHA.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Interfaz.resources
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gil\Desktop\especificacion progra\encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\encritacionSHA.csproj.GenerateResource.Cache
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\encritacionSHA.csprojResolveAssemblyReference.cache
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Interfaz.resources
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\codigo encriptar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\encritacionSHA.csproj.GenerateResource.Cache

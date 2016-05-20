@@ -1,0 +1,4 @@
+restricciones al hacer un tweet:
+-no se puede realizar tweet con el mismo contenido al publicar consecutivamente!
+
+-en el codigo hay que validar que no se digite mas de 140 caracteres!
