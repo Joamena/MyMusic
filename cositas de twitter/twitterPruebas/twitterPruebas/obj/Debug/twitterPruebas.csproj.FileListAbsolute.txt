@@ -7,3 +7,34 @@ C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\twitter\twitterPruebas\
 C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.csproj.GenerateResource.Cache
 C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.exe
 C:\Users\gilbe\Desktop\proyecto espe 2016\progra\myMusic\twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.pdb
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\twitterPruebas.exe.config
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.exe
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.pdb
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\twitterPruebas.exe
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\twitterPruebas.pdb
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.csprojResolveAssemblyReference.cache
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.Properties.Resources.resources
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.Form1.resources
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\obj\Debug\twitterPruebas.csproj.GenerateResource.Cache
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.Helpers.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.Mvc.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.Razor.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.WebPages.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.Helpers.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.Mvc.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.Razor.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.WebPages.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.SqlServer.WebServiceTask.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\EnvDTE.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\stdole.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\cositas de twitter\twitterPruebas\twitterPruebas\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml

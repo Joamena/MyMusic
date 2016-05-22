@@ -5,10 +5,11 @@ namespace twitterPruebas
 {
     public class PublicarTwetter
     {
-        private readonly OAuthInfo _oauth;
+        public readonly OAuthInfo _oauth;
 
         public PublicarTwetter()
         {
+            //otra implementacion utilizando MVC
             _oauth = new OAuthInfo
             {
                 AccessToken = "722419719362338816-kndw2f5UZDW8ZevTygrI7o5toRmaK24",
@@ -29,6 +30,7 @@ namespace twitterPruebas
             }
             catch (Exception ex)
             {
+                MessageBox.Show("Error" + ex);
                 Console.WriteLine("Error" + ex);
                 return false;
             }
@@ -39,11 +41,16 @@ namespace twitterPruebas
             var twitter = new MetodosTwitter(_oauth);
             try
             {
-                twitter.GetMentions();
+                //MessageBox.Show("Menciones contadas: " + twitter.GetMentions());
+                // twitter.GetTweets(strMensaje);
+                MessageBox.Show("lista es: " + twitter.GetTweets(strMensaje));
+
+                //esto me podria servir para contar ##: http://stackoverflow.com/questions/18976929/get-twitter-users-with-a-specific-hashtag
                 return true;
             }
             catch (Exception ex)
             {
+                MessageBox.Show("Error" + ex);
                 Console.WriteLine("Error" + ex);
                 return false;
             }

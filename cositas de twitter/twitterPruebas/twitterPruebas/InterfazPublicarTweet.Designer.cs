@@ -31,6 +31,7 @@
             this.Comentario = new System.Windows.Forms.Label();
             this._textBoxComentario = new System.Windows.Forms.TextBox();
             this._BotonPublicar = new System.Windows.Forms.Button();
+            this._buttonContar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Comentario
@@ -52,7 +53,7 @@
             // 
             // _BotonPublicar
             // 
-            this._BotonPublicar.Location = new System.Drawing.Point(106, 160);
+            this._BotonPublicar.Location = new System.Drawing.Point(97, 125);
             this._BotonPublicar.Name = "_BotonPublicar";
             this._BotonPublicar.Size = new System.Drawing.Size(75, 23);
             this._BotonPublicar.TabIndex = 3;
@@ -60,11 +61,22 @@
             this._BotonPublicar.UseVisualStyleBackColor = true;
             this._BotonPublicar.Click += new System.EventHandler(this.button1_Click);
             // 
+            // _buttonContar
+            // 
+            this._buttonContar.Location = new System.Drawing.Point(97, 163);
+            this._buttonContar.Name = "_buttonContar";
+            this._buttonContar.Size = new System.Drawing.Size(75, 23);
+            this._buttonContar.TabIndex = 4;
+            this._buttonContar.Text = "contar #\'s";
+            this._buttonContar.UseVisualStyleBackColor = true;
+            this._buttonContar.Click += new System.EventHandler(this._buttonContar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(287, 265);
+            this.Controls.Add(this._buttonContar);
             this.Controls.Add(this._BotonPublicar);
             this.Controls.Add(this._textBoxComentario);
             this.Controls.Add(this.Comentario);
@@ -79,6 +91,7 @@
         private System.Windows.Forms.Label Comentario;
         private System.Windows.Forms.TextBox _textBoxComentario;
         private System.Windows.Forms.Button _BotonPublicar;
+        private System.Windows.Forms.Button _buttonContar;
     }
 }
 

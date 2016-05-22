@@ -18,9 +18,18 @@ namespace twitterPruebas
         private void button1_Click(object sender, EventArgs e)
         {
             String comment = _textBoxComentario.Text;
-            MessageBox.Show("ud escribio: " + comment);
+            MessageBox.Show("ud escribio: " + comment);          
             PublicarTwetter newTweet = new PublicarTwetter();
             newTweet.PublicarTweet(comment);
+        }
+
+        private void _buttonContar_Click(object sender, EventArgs e)
+        {
+            String comment = _textBoxComentario.Text;
+            MessageBox.Show("ud buscara: " + comment);
+            PublicarTwetter newTweet = new PublicarTwetter();
+                        
+            newTweet.CountHashtag(comment);
         }
     }
 }
