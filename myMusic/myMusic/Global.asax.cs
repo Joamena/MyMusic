@@ -11,7 +11,7 @@ namespace myMusic
     {
         protected void Application_Start()
         {
-            System.Data.Entity.Database.SetInitializer(new MvcMusicStore.Models.SampleData());
+            System.Data.Entity.Database.SetInitializer(new myMusic.Models.SampleData());
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }

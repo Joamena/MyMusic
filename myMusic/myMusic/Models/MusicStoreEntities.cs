@@ -9,8 +9,8 @@ namespace myMusic.Models
 {
     public class MusicStoreEntities : DbContext
     {
-        public DbSet<Album> Album { get; set; }
-        public DbSet<Genre> Genre { get; set; }
+        public DbSet<Album> Albums { get; set; }
+        public DbSet<Genre> Genres { get; set; }
 
     }
 }
