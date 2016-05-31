@@ -51,7 +51,7 @@ namespace MyFan.Controllers
         {
             using (OurDbContext db = new OurDbContext())
             {
-                var usr = db.userAccount.Single(u => u.Username == user.Username && u.Password == user.Password);
+                var usr = db.userAccount.Where(u => u.Username == user.Username && u.Password == user.Password).FirstOrDefault();
                 if (usr != null)
                 {
                     Session["UserID"] = usr.UserID.ToString();
